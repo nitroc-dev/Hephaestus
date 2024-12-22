@@ -56,4 +56,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 I'd love to hear from you! Reach out to me through any of the following platforms:
 
 - **Email**: [contact@nitroc.xyz](mailto:contact@nitroc.xyz)
-- **Portfolio**: [Hepheastus](https://nitroc.xyz)
+- **Portfolio**: [Zeus](https://nitroc.xyz)
