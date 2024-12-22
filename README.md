@@ -1,4 +1,4 @@
-# 💼 Personal Portfolio - Hephaestus
+# 💼 Personal Portfolio - Zeus
 
 Welcome to my personal portfolio repository! This portfolio showcases my skills, experience, and projects in software development. The goal of this project is to highlight my professional journey, technical skills, and the solutions I’ve created. Feel free to explore and connect!
 
@@ -26,7 +26,7 @@ git clone https://github.com/nitroc-dev/Hephaestus.git
 2) Navigate to the project directory:
 
 ```bash
-cd Hephaestus
+cd Zeus
 ```
 
 3) Install the required dependencies:
